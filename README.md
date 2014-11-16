@@ -6,4 +6,6 @@ this is my first git hub project
 I would like to introduce my self to doctor music.
 
 
-¢é¢ì¢ì¡@¢û¢÷¢õ¢í¡@¢ü¢í£A¢ü
+ï½ï½„ï½„ã€€ï½“ï½ï½ï½…ã€€ï½”ï½…ï½˜ï½”
+
+more text on git hub
